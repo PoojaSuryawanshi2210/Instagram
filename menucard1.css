@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: darkcyan;
+    width:20%;
+    height: 100vh;
+}
